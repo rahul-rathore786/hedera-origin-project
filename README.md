@@ -168,8 +168,8 @@ To run the SafeWorkPay frontend, follow these steps:
 
 **Note-2**: The smart contracts are already deployed on the Morph Holesky testnet at the following addresses:
 
-- DappWorks: ``
-- USDT: ``
+- DappWorks: `0xF2011cFE8E379A4A890A7f1a5CDCC61629A2FA6b`
+- USDT: `0x7BBfC9Ea272595D794990A8C2ea615d95ECe3673`
 
 you can visit explorer to check the transactions
 
