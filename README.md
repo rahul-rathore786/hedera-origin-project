@@ -8,13 +8,8 @@ A decentralized freelancing platform powered by blockchain and AI to ensure secu
 
 ## Submission Information
 
-Submitted to the Hedera Hello Future: Origins Hackathon 2025
-
-<!-- make a biullet list -->
-
-- Hackathon submission:https://dorahacks.io/buidl/30774
-- Live link:https://safe-work-pay-v3.vercel.app/
-- Presentation video: https://youtu.be/5vzjYtTKsVs
+- Live link:https://safe-work-pay-v3.vercel.app/ (Hedera Testnet)
+- Presentation video: https://youtu.be/5vzjYtTKsVs (YouTube)
 
 ---
 
@@ -166,10 +161,17 @@ To run the SafeWorkPay frontend, follow these steps:
    pnpm start
    ```
 
-**Note**: The smart contracts are already deployed on the Hedera testnet at the following addresses:
+**Note-1**: The smart contracts are already deployed on the Hedera testnet at the following addresses:
 
 - DappWorks: `0x8961AeA9D0118BD1f6E0837CAa8759835A7b51A8`
 - USDT: `0x30c7e88C3A04C6bb59d2C604A0c135447dBA4099`
+
+**Note-2**: The smart contracts are already deployed on the Morph Holesky testnet at the following addresses:
+
+- DappWorks: ``
+- USDT: ``
+
+you can visit explorer to check the transactions
 
 **Environment Setup**: Make sure to add your MetaMask private key, CometChat credentials, and RPC URL in the `.env` file for the application to function correctly.
 
