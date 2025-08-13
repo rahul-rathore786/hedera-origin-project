@@ -227,7 +227,7 @@ change file name .env.example to .env and add the environment variables in the .
 - **Backend (Smart Contracts)**: Solidity, Hardhat, OpenZeppelin Contracts, Node.js, Express.js, @google/generative-ai
 - **Chat Functionality**: CometChat
 - **Package Manager**: pnpm
-- **Blockchain**: Hedera (Testnet)
+- **Blockchain**: Hedera (Testnet), Morph Testnet
 - **AI**: Custom AI model for code evaluation and dispute resolution (integrated with Gemini API)
 
 ## Additional Notes
