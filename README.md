@@ -13,7 +13,31 @@ A decentralized freelancing platform powered by blockchain and AI to ensure secu
 - Presentation video: https://youtu.be/5vzjYtTKsVs (YouTube)
 
 ---
+## 📜 Deployment Notes
 
+### **Note 1 — Hedera Testnet**
+The smart contracts are already deployed on the **Hedera Testnet** at the following addresses:
+
+| Contract Name | Address |
+|--------------|---------|
+| **DappWorks** | [`0x8961AeA9D0118BD1f6E0837CAa8759835A7b51A8`](https://hashscan.io/testnet/contract/0x8961AeA9D0118BD1f6E0837CAa8759835A7b51A8) |
+| **USDT**     | [`0x30c7e88C3A04C6bb59d2C604A0c135447dBA4099`](https://hashscan.io/testnet/contract/0x30c7e88C3A04C6bb59d2C604A0c135447dBA4099) |
+
+🔗 *You can visit the [Hedera Explorer](https://hashscan.io/testnet) to check the transactions.*
+
+---
+
+### **Note 2 — Morph Holesky Testnet**
+The smart contracts are already deployed on the **Morph Holesky Testnet** at the following addresses:
+
+| Contract Name | Address |
+|--------------|---------|
+| **DappWorks** | [`0xF2011cFE8E379A4A890A7f1a5CDCC61629A2FA6b`](https://explorer-holesky.morphl2.io/address/0xF2011cFE8E379A4A890A7f1a5CDCC61629A2FA6b) |
+| **USDT**     | [`0x7BBfC9Ea272595D794990A8C2ea615d95ECe3673`](https://explorer-holesky.morphl2.io/address/0x7BBfC9Ea272595D794990A8C2ea615d95ECe3673) |
+
+🔗 *You can visit the [Morph Holesky Explorer](https://explorer-holesky.morphl2.io/) to check the transactions.*
+
+---
 ## Problem Statement
 
 - Freelancing platforms often face **payment disputes and trust issues**.
@@ -162,17 +186,6 @@ To run the SafeWorkPay frontend, follow these steps:
    pnpm start
    ```
 
-**Note-1**: The smart contracts are already deployed on the Hedera testnet at the following addresses:
-
-- DappWorks: `0x8961AeA9D0118BD1f6E0837CAa8759835A7b51A8`
-- USDT: `0x30c7e88C3A04C6bb59d2C604A0c135447dBA4099`
-
-**Note-2**: The smart contracts are already deployed on the Morph Holesky testnet at the following addresses:
-
-- DappWorks: `0xF2011cFE8E379A4A890A7f1a5CDCC61629A2FA6b`
-- USDT: `0x7BBfC9Ea272595D794990A8C2ea615d95ECe3673`
-
-you can visit explorer to check the transactions
 
 **Environment Setup**: Make sure to add your MetaMask private key, CometChat credentials, and RPC URL in the `.env` file for the application to function correctly.
 
