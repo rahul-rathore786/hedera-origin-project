@@ -8,8 +8,8 @@ A decentralized freelancing platform powered by blockchain and AI to ensure secu
 
 ## Submission Information
 
-- Live link:https://safe-work-pay-v3.vercel.app/ (Hedera Testnet)
-- Live link:https://safe-work-pay-v31.vercel.app/ (Morph Testnet)
+- Live Link https://safe-work-pay-v3.vercel.app/ (Hedera Testnet)
+- Live Link https://safe-work-pay-v-31.vercel.app/ (Morph Testnet)
 - Presentation video: https://youtu.be/5vzjYtTKsVs (YouTube)
 
 ---
